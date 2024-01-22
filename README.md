@@ -1,2 +1,1 @@
-# data-science-academy-project
-Ada Lovelace Academy | Data Science Academy - Project
+# Ada Lovelace Academy | Data Science Academy - Project
